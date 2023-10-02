@@ -15,5 +15,7 @@ These angles are;
 
 In this case, we will use User Growth and Aoption metrics. Here will answer the following;
 a. User Registration - This metric helps gauge the initial interest and adoption of IGTV among Instagram users.
+
 b. Active Users - Monitor the percentage of Instagram users who engage with IGTV regularly
+
 c. User Retention - Analyze the rate at which users continue to use IGTV over time

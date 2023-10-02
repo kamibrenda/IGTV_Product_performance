@@ -14,6 +14,7 @@ These angles are;
 9. Strategic Metrics - Ensure that the success metrics align with the business needs and direction.
 
 In this case, we will use User Growth and Aoption metrics. Here will answer the following;
+
 a. User Registration - This metric helps gauge the initial interest and adoption of IGTV among Instagram users.
 
 b. Active Users - Monitor the percentage of Instagram users who engage with IGTV regularly
